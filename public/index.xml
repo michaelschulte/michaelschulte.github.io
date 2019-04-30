@@ -1,0 +1,931 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael Schulte-Mecklenbeck</title>
+    <link>/</link>
+    <description>Recent content on Michael Schulte-Mecklenbeck</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>{year}</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Forward inference in risky choice: Mapping gaze and decision processes</title>
+      <link>/publication/schoemann-2019-forward/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/schoemann-2019-forward/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Foundations for Open Scholarship Strategy Development</title>
+      <link>/publication/tennant-2019-foundations/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/tennant-2019-foundations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mouse-tracking: A practical guide to implementation and analysis</title>
+      <link>/publication/kieslich-2019-mouse/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/kieslich-2019-mouse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The dynamics of self-control: within-participant modeling of binary food choices and underlying decision processes as a function of restrained eating</title>
+      <link>/publication/georgii-2019-dynamics/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/georgii-2019-dynamics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BernR Meetup</title>
+      <link>/post/2018-12-10-bernr-meetup/</link>
+      <pubDate>Mon, 10 Dec 2018 06:05:56 -0700</pubDate>
+      
+      <guid>/post/2018-12-10-bernr-meetup/</guid>
+      <description>Today (Dec 10th 2018) we will meet for the first BernR Meetup (https://www.meetup.com/Bern-R/) &amp;#8211; hope to learn new things and get to know cool R people. More to follow soon ..</description>
+    </item>
+    
+    <item>
+      <title>A letter to the black goat</title>
+      <link>/post/2018-07-30-a-letter-to-the-black-goat/</link>
+      <pubDate>Mon, 30 Jul 2018 21:16:40 -0700</pubDate>
+      
+      <guid>/post/2018-07-30-a-letter-to-the-black-goat/</guid>
+      <description>I wrote this letter to the black goat podcast &amp;#8230; will update here if I hear back from them &amp;#8230;
+&amp;nbsp;
+Dear goaters (is this a good way to address the three of you?),
+   I attended SIPS some weeks ago (first timer). I was unsure what to expect but got a lot of bang for my buck (which is great) &amp;#8211; as a side note I would recommend first timers to try to go there with a concrete project or question or problem, I think there is a good chance to find people with similar issues interested in collaborations.</description>
+    </item>
+    
+    <item>
+      <title>Blind Haste (aka im Blindflug)</title>
+      <link>/post/2018-01-09-blind-haste-aka-im-blindflug/</link>
+      <pubDate>Tue, 09 Jan 2018 05:47:29 -0700</pubDate>
+      
+      <guid>/post/2018-01-09-blind-haste-aka-im-blindflug/</guid>
+      <description>Chance encounters sometimes lead to interesting and new projects. This is one of those cases &amp;#8230; I got to know Emanuel de Bellis during my time at Nestle and we never stopped collaborating ever since (he actually lead my 2017 &amp;#8216;skype to&amp;#8217; statistics with my wife as a close second &amp;#8230;)
+We got our hands on a rich dataset of speed measures the police in Zürich (Switzerland) does unbeknownst to the drivers during they year for planning purposes.</description>
+    </item>
+    
+    <item>
+      <title>8 Easy Steps to Open Science: An Annotated Reading List</title>
+      <link>/publication/cruwell-88/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/cruwell-88/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerated CREP-RRR: Turri, Buckwalter, &amp; Blouw (2015)</title>
+      <link>/publication/hall-2018-accelerated/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/hall-2018-accelerated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blind haste: As light decreases, speeding increases</title>
+      <link>/publication/debellis2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/debellis2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facial expression analysis with AFFDEX and FACET: A validation study</title>
+      <link>/publication/stockli-2018-facial/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/stockli-2018-facial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Registered replication report: Dijksterhuis and van Knippenberg (1998)</title>
+      <link>/publication/o-2018-registered/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/o-2018-registered/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selecting target papers for replication</title>
+      <link>/publication/kuehberger-2018-selecting/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/kuehberger-2018-selecting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Professor priming &amp;#8211; or not</title>
+      <link>/post/2017-11-13-professor-priming-or-not/</link>
+      <pubDate>Mon, 13 Nov 2017 14:23:40 -0700</pubDate>
+      
+      <guid>/post/2017-11-13-professor-priming-or-not/</guid>
+      <description>This was my first contribution to a Registered Replication Report (RRR). Being one of 40 participating labs was an interesting exercise &amp;#8211; it might seem straightforward to run the same study in different labs, but we learned that such small things as ü, ä and ö can generate a huge amount of problems and work (read this if you are into these kind of things).  Here is one of the central results:   So overall not a lot of action &amp;#8230; our lab was actually the one with larges effect size (in the predicted direction).</description>
+    </item>
+    
+    <item>
+      <title>The root of the problem</title>
+      <link>/post/2017-11-13-the-root-of-the-problem/</link>
+      <pubDate>Mon, 13 Nov 2017 05:44:06 -0700</pubDate>
+      
+      <guid>/post/2017-11-13-the-root-of-the-problem/</guid>
+      <description>One of the root causes of where we are (as a science) in psychology and many other disciplines in terms of reproducibility of key (and other) results could not be better summed up than by the man himself Daryl Bem (2002):
+“If a datum suggests a new hypothesis, try to find additional evidence for it elsewhere in the data. If you see dim traces of interesting patterns, try to reorganize the data to bring them into bolder relief.</description>
+    </item>
+    
+    <item>
+      <title>A short history of process tracing</title>
+      <link>/post/2017-10-31-a-short-history-of-process-tracing/</link>
+      <pubDate>Tue, 31 Oct 2017 00:10:34 -0700</pubDate>
+      
+      <guid>/post/2017-10-31-a-short-history-of-process-tracing/</guid>
+      <description>Finally out (already mentioned earlier this year) &amp;#8211; now in it&amp;#8217;s full glory @ Current Directions in Psychological Science.
+Good Stuff.
+a little process tracing history together with the delightful @dggoldst https://t.co/svGBLYcAZv#processtracing #JDM  &amp;mdash; Michael Schulte (@SchulteMi) October 31, 2017  &amp;nbsp;</description>
+    </item>
+    
+    <item>
+      <title>LaTeX &lt;- pdfTeX, LuaTeX, XeTeX</title>
+      <link>/post/2017-04-30-latex/</link>
+      <pubDate>Sun, 30 Apr 2017 23:16:22 -0700</pubDate>
+      
+      <guid>/post/2017-04-30-latex/</guid>
+      <description>I have been using LaTeX (with pdfTeX) for 20+ years now &amp;#8211; to be honest I never bothered to understand the differences between the different TeX engines &amp;#8211; here is an excellent article by Graham Douglas explaining the ins and outs of the TeX engine(s).
+&amp;#8230; the article also features Overleaf a shared TeX environment &amp;#8230; sweet!</description>
+    </item>
+    
+    <item>
+      <title>Growing up to be old</title>
+      <link>/post/2017-04-12-growing-up-to-be-old/</link>
+      <pubDate>Wed, 12 Apr 2017 07:45:12 -0700</pubDate>
+      
+      <guid>/post/2017-04-12-growing-up-to-be-old/</guid>
+      <description>Some papers have somewhat weird starting points &amp;#8211; this one had an awesome starting point &amp;#8211; Lake Louise (Canada):
+In a little suite we (Joe Johnson, Ulf Böckenholt, Dan Goldstein, Jay Russo, Nikki Sullivan, Martijn Willemsen) sat down during a conference called the &amp;#8216;Choice Symposium&amp;#8216; and started working on an overview paper about the history and current status of different process tracing methods. One central result (why can&amp;#8217;t all papers be like that) is the figure below where we try to locate many process tracing methods on the two dimensions: temporal resolution and distortion risk (i.</description>
+    </item>
+    
+    <item>
+      <title>Something about reverse inference</title>
+      <link>/post/2017-04-12-something-about-reverse-inference/</link>
+      <pubDate>Wed, 12 Apr 2017 07:29:00 -0700</pubDate>
+      
+      <guid>/post/2017-04-12-something-about-reverse-inference/</guid>
+      <description>Often, when we run process tracing studies (e.g., eye-tracking, mouse-tracking, thinking-aloud) we talk about cognitive processes (things we can&amp;#8217;t observe) in a way that they are actually and directly observable. This is pretty weird &amp;#8211; which becomes obvious when looking at the data from the paper below. In this paper we simply instruct participants to follow a strategy when making choices between risky gamble problems. Taking the example of fixation duration we see that there is surprisingly litte difference between calculating an expected value, using a heuristic (priority heuristic) and just making decisions without instructions (no instruction) &amp;#8230; maybe we should rethink our mapping of observation to cognitive processes a bit?</description>
+    </item>
+    
+    <item>
+      <title>Eye-Tracking with N &gt; 1</title>
+      <link>/post/2017-03-13-eye-tracking-with-n-1/</link>
+      <pubDate>Mon, 13 Mar 2017 12:20:52 -0700</pubDate>
+      
+      <guid>/post/2017-03-13-eye-tracking-with-n-1/</guid>
+      <description>This is one of the fastest papers I have ever written. It was a great collaboration with Tomás Lejarraga from the Universitat de les Illes Balears. Why was it great? Because it is one of the rare cases (at least in my academic life) where all people involved in a project contribute equally and quickly. Often, the weight of a contribution lies with one person which slows down things &amp;#8211; with Tomás this was different &amp;#8211; we were often sitting in front of a computer writing together (have never done this before, thought it would not work).</description>
+    </item>
+    
+    <item>
+      <title>Author Note</title>
+      <link>/publication/pachur-2017-author/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/pachur-2017-author/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inducing Thought Processes: Bringing Process Measures and Cognitive Processes Closer Together</title>
+      <link>/publication/schulte-2017-inducing/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/schulte-2017-inducing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Process tracing methods in decision making: on growing up in the 70ties</title>
+      <link>/publication/schulte-2017-process/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/schulte-2017-process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The (in) visibility of psychodiagnosticians&#39; expertise</title>
+      <link>/publication/schulte-2015-visibility/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/schulte-2015-visibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Everything you believe in is wrong &amp;#8211; or is it simply terrorism?</title>
+      <link>/post/2016-09-20-everything-you-believe-in-is-wrong-or-is-it-simply-terrorism/</link>
+      <pubDate>Tue, 20 Sep 2016 00:15:15 -0700</pubDate>
+      
+      <guid>/post/2016-09-20-everything-you-believe-in-is-wrong-or-is-it-simply-terrorism/</guid>
+      <description>The replication crisis has many interesting effects on how people (and scientists) think about Psychology (and, of course, other fields) &amp;#8230; Here is a nice summary of effects that are hard to replicate. Among them &amp;#8216;classics&amp;#8217; like the power pose or the big brother eyes.
+A lot is happening because of these new insights in terms of research (e.g., replication studies) and communication (e.g., Fritz Strack on Facebook).
+And then this: Susan Fiske in an upcoming piece in the APS Observer &amp;#8230; I am really struggling with this rhetoric &amp;#8211; Daniel Lakens to the rescue 🙂</description>
+    </item>
+    
+    <item>
+      <title>Strava</title>
+      <link>/post/2016-08-30-strava/</link>
+      <pubDate>Tue, 30 Aug 2016 00:25:21 -0700</pubDate>
+      
+      <guid>/post/2016-08-30-strava/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Everything is fucked &amp;#8230;</title>
+      <link>/post/2016-08-12-everything-is-fucked/</link>
+      <pubDate>Fri, 12 Aug 2016 00:05:23 -0700</pubDate>
+      
+      <guid>/post/2016-08-12-everything-is-fucked/</guid>
+      <description>This syllabus of an (obviously) awesome class has a ton of good reads:
+Everything is fucked: The&amp;nbsp;syllabus
+by Sanjay Srivastava
+I would have two additions:
+ A multi lab replication project on ego-depletion (Hagger &amp;amp; Chatzisarantis, 2016) And the response from Roy Baumeister and Kathleen D. Vohs  It&amp;#8217;s a really good statement of how f&amp;#8230; up things are (in addition to all the other good examples above) &amp;#8230;
+“A new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die, and a new generation grows up that is familiar with it.</description>
+    </item>
+    
+    <item>
+      <title>Before R there was S</title>
+      <link>/post/2016-07-12-before-r-was-r-there-was-s/</link>
+      <pubDate>Tue, 12 Jul 2016 02:09:41 -0700</pubDate>
+      
+      <guid>/post/2016-07-12-before-r-was-r-there-was-s/</guid>
+      <description>Before there was R, there was S. R was modeled on a language developed at AT&amp;T Bell Labs starting in 1976 by Rick Becker and John Chambers (and, later, Alan Wilks) along with Doug Dunn, Jean McRae, and Judy Schilling. Here is a talk by Rick Becker telling the story of R. Good Stuff! </description>
+    </item>
+    
+    <item>
+      <title>The exams package</title>
+      <link>/post/2016-06-11-the-exams-package/</link>
+      <pubDate>Sat, 11 Jun 2016 02:09:52 -0700</pubDate>
+      
+      <guid>/post/2016-06-11-the-exams-package/</guid>
+      <description>I gave the R package exams a shot for my decision making lecture. Here is what it does:
+&amp;#8220;Automatic generation of exams based on exercises in Sweave (R/LaTeX) or R/Markdown format, including multiple-choice questions and arithmetic problems. Exams can be produced in various formats, including PDF, HTML, Moodle XML, QTI 1.2 (for OLAT/OpenOLAT), QTI 2.1, ARSnova, and TCExam. In addition to fully customizable PDF exams, a standardized PDF format is provided that can be printed, scanned, and automatically evaluated.</description>
+    </item>
+    
+    <item>
+      <title>Sublime autocompletion</title>
+      <link>/post/2016-01-28-sublime-autocompletion/</link>
+      <pubDate>Thu, 28 Jan 2016 08:47:44 -0700</pubDate>
+      
+      <guid>/post/2016-01-28-sublime-autocompletion/</guid>
+      <description>They say about Sublime: &amp;#8220;The text editor you will fall in love with&amp;#8221;
+hmm &amp;#8211; kind of did that.
+One reason being that when coding LaTeX in Sublime there is an awesome autocompletion feature:
+Type &amp;#8216;enum&amp;#8217; and you get:
+&amp;nbsp;
+&amp;nbsp;
+&amp;nbsp;
+Shift + Enter within an itemize adds a new \item
+&amp;nbsp;
+&amp;nbsp;
+&amp;nbsp;
+AFK to cry &amp;#8230; tears of joy 🙂
+Everything stolen from here</description>
+    </item>
+    
+    <item>
+      <title>Three weeks without email</title>
+      <link>/post/2016-01-10-three-weeks-without-email/</link>
+      <pubDate>Sun, 10 Jan 2016 04:34:43 -0700</pubDate>
+      
+      <guid>/post/2016-01-10-three-weeks-without-email/</guid>
+      <description>I spend a lot of time writing and answering email. Email is, according to timing, the third longest activity on my computer (although I am using three computers and can check this only on one of them &amp;#8211; #timing please let us link computers for an overall analysis) &amp;#8230; anyway &amp;#8211; back to no email &amp;#8211; as a holiday treat I decided to shut down all my email accounts 5 days before Dec.</description>
+    </item>
+    
+    <item>
+      <title>Deliberative versus intuitive diagnostic decision</title>
+      <link>/publication/skvortsova-2016-deliberative/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/skvortsova-2016-deliberative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The pyeTribe: Simultaneous eyetracking for economic games</title>
+      <link>/publication/lejarraga-2016-pyetribe/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/lejarraga-2016-pyetribe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Paper on pychodiagnosis and eye-tracking</title>
+      <link>/post/2015-11-10-new-paper-on-pychodiagnosis-and-eye-tracking/</link>
+      <pubDate>Tue, 10 Nov 2015 03:39:33 -0700</pubDate>
+      
+      <guid>/post/2015-11-10-new-paper-on-pychodiagnosis-and-eye-tracking/</guid>
+      <description>Cilia Witteman and Nanon Spaanjaars (my dutch connection) worked together on a piece on whether psychodiagnosticians improve over time (they don&amp;#8217;t) in their ability to classify symptoms to DSM categories. This turned out to be a pretty cool paper combining eye-tracking data with a practical, and hopefully, relevant question.
+Schulte-Mecklenbeck, M., Spaanjaars, N.L., &amp;amp; Witteman, C.L.M. (in press). The (in)visibility of psychodiagnosticians&amp;#8217; expertise. Journal of Behavioral Decision Making. http://dx.doi.org/10.1002/bdm.1925
+ Abstract  This study investigates decision making in mental health care.</description>
+    </item>
+    
+    <item>
+      <title>the way I am seen, by people who know (and like) me</title>
+      <link>/post/2015-07-13-the-way-i-am-seen-by-people-who-know-and-like-me/</link>
+      <pubDate>Mon, 13 Jul 2015 01:17:07 -0700</pubDate>
+      
+      <guid>/post/2015-07-13-the-way-i-am-seen-by-people-who-know-and-like-me/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about illusions</title>
+      <link>/post/2015-03-11-about-illusions/</link>
+      <pubDate>Wed, 11 Mar 2015 00:58:52 -0700</pubDate>
+      
+      <guid>/post/2015-03-11-about-illusions/</guid>
+      <description>Andrew Gelman talked about a really old paper I did together with Anton Kühberger ages ago. It was actually the first paper / &amp;#8216;real&amp;#8217; scientific project I was involved in.
+It generated quite the buzz over its 20 year lifespan and was cited a whopping 13 times (stats look good without y-axis) &amp;#8230;
+
+&amp;nbsp;
+&amp;nbsp;
+&amp;nbsp;
+Going back to it, I was happy to see that we already talked about replication (and were very reluctant to push the button harder &amp;#8211; as we would have not been able to get through the reviews, I guess) &amp;#8230; Things have changed.</description>
+    </item>
+    
+    <item>
+      <title>Schnitz(e)ljagd</title>
+      <link>/post/2015-02-20-schnitzeljagd/</link>
+      <pubDate>Fri, 20 Feb 2015 06:35:25 -0700</pubDate>
+      
+      <guid>/post/2015-02-20-schnitzeljagd/</guid>
+      <description>Find the Schnitz(e)l!</description>
+    </item>
+    
+    <item>
+      <title>all that mutate() and summarise() beauty</title>
+      <link>/post/2015-02-12-all-that-mutate-and-summarise-beauty/</link>
+      <pubDate>Thu, 12 Feb 2015 01:44:10 -0700</pubDate>
+      
+      <guid>/post/2015-02-12-all-that-mutate-and-summarise-beauty/</guid>
+      <description>The friendly people from RStudio recently started a webinar series with talks on the following topics (among others):
+Data wrangling with R and RStudio
+The Grammar and Graphics of Data Science (both dplyr happiness)
+RStudio and Shiny
+&amp;#8230; and many more.
+Our friend Dr. Nathaniel D. Philipps also started a cool R course with videos, shiny apps and many other new goodies.
+&amp;nbsp;
+&amp;nbsp;</description>
+    </item>
+    
+    <item>
+      <title>Moving an idea into business</title>
+      <link>/post/2015-02-07-moving-an-idea-into-business/</link>
+      <pubDate>Sat, 07 Feb 2015 15:15:17 -0700</pubDate>
+      
+      <guid>/post/2015-02-07-moving-an-idea-into-business/</guid>
+      <description>Recently Ryan Murphy and myself realised that a startup here in Berlin features ideas of our 2011 Flashlight paper.
+Well, the guys at attensee.com did a great job taking the idea we had much further we ever thought one would be able to take it &amp;#8230;
+Here is a feature I totally love &amp;#8211; a live heat map of what you are looking at &amp;#8230; awesome!</description>
+    </item>
+    
+    <item>
+      <title>dplyr is growing up &amp;#8230;</title>
+      <link>/post/2014-09-25-dplyr-is-growing-up/</link>
+      <pubDate>Thu, 25 Sep 2014 01:37:27 -0700</pubDate>
+      
+      <guid>/post/2014-09-25-dplyr-is-growing-up/</guid>
+      <description>&amp;nbsp;
+
+&amp;nbsp;
+&amp;nbsp;
+&amp;nbsp;
+&amp;nbsp;
+&amp;nbsp;
+&amp;nbsp;
+dplyr is the new plyr &amp;#8211; and it is awesome!
+fast, consistent and easy to read &amp;#8230; check out a set of instructional pages, presentation and videos here
+Thanks Hadley Wickham</description>
+    </item>
+    
+    <item>
+      <title>Die Zeit Wissen &amp;#8230; schreibt über Essensentscheidungen</title>
+      <link>/post/2014-08-22-die-zeit-wissen-schreibt-uber-essensentscheidungen/</link>
+      <pubDate>Fri, 22 Aug 2014 14:26:12 -0700</pubDate>
+      
+      <guid>/post/2014-08-22-die-zeit-wissen-schreibt-uber-essensentscheidungen/</guid>
+      <description>Mal was Längeres zu unseren Lieblingsthemen: Essen und Entscheidungsforschung &amp;#8230; Enjoy!
+2014-08-19_DieZeitWissen-wie-sie-beim-essen-die-richtigen-entscheidungen-treffen</description>
+    </item>
+    
+    <item>
+      <title>When something old &amp;#8230;</title>
+      <link>/post/2014-05-07-when-something-old/</link>
+      <pubDate>Wed, 07 May 2014 01:12:06 -0700</pubDate>
+      
+      <guid>/post/2014-05-07-when-something-old/</guid>
+      <description>Schulte-Mecklenbeck, M., &amp; Kühberger, A. (2014). Out of sight – out of mind? Information acquisition patterns in risky choice framing. Polish Psychological Bulletin, 45, 21–28. I teamed up with Anton Kühberger to write about one of our old, favorite topics: framing and process tracing &amp;#8230; Here is the abstract:
+We investigate whether risky choice framing, i.e., the preference of a sure over an equivalent risky option when choosing among gains, and the reverse when choosing among losses, depends on redundancy and density of information available in a task.</description>
+    </item>
+    
+    <item>
+      <title>Out of sight--out of mind? Information acquisition patterns in risky choice framing</title>
+      <link>/publication/schulte-2014-out/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/schulte-2014-out/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New paper on food choice and simple heuristics</title>
+      <link>/post/2013-08-16-new-paper-on-food-choice-and-simple-heuristics/</link>
+      <pubDate>Fri, 16 Aug 2013 06:57:52 -0700</pubDate>
+      
+      <guid>/post/2013-08-16-new-paper-on-food-choice-and-simple-heuristics/</guid>
+      <description>We got a new paper out on how people (consumers) use simple rules to make food choices. This is work in collaboration with the Nestlé Research Center in Lausanne.
+Here is the reference:
+Schulte-Mecklenbeck, M., Sohn, M., Bellis, E., Martin, N., &amp; Hertwig, R. (2013). A Lack of Appetite for Information and Computation: Simple Heuristics in Food Choice. Appetite, 71, 242–251. Abstract
+The predominant, but largely untested, assumption in research on food choice is that people obey the classic commandments of rational behavior: they carefully look up every piece of relevant information, weight each piece according to subjective importance, and then combine them into a judgment or choice.</description>
+    </item>
+    
+    <item>
+      <title>Limesurvey randomizing</title>
+      <link>/post/2013-06-03-limesurvey-randomizing/</link>
+      <pubDate>Mon, 03 Jun 2013 12:55:47 -0700</pubDate>
+      
+      <guid>/post/2013-06-03-limesurvey-randomizing/</guid>
+      <description>It is kind of an odd problem.
+For the following pretty straight forward question: How do I randomise questions within a group in Limesurvey? It seems to be really hard to find an answer.
+With the help of Jonas I figured out that there is a randomisation option hidden in the &amp;#8216;Advanced Settings&amp;#8217; section of a question. What you have to do is provide the same number (this is important) for each question in a group that you want to randomise.</description>
+    </item>
+    
+    <item>
+      <title>A Lack of Appetite for Information and Computation: Simple Heuristics in Food Choice</title>
+      <link>/publication/schulte-2013-lack/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/schulte-2013-lack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>*apply in all its variations &amp;#8230;</title>
+      <link>/post/2012-10-13-apply-in-all-its-variations/</link>
+      <pubDate>Sat, 13 Oct 2012 11:05:38 -0700</pubDate>
+      
+      <guid>/post/2012-10-13-apply-in-all-its-variations/</guid>
+      <description>Here is an excellent stackoverflow post on how *apply in all its variations can be used.
+One of the followups points at plyr (from demi-R-god Hadley Wickham) which provides a consistent naming convention for all the *apply variations. I like plyr a lot, because like ggplot, it is easy to grasp and relatively intuitive to find an answer to even tricky problems.
+Here is the translation from *apply to plyr &amp;#8230;</description>
+    </item>
+    
+    <item>
+      <title>R Style Guide</title>
+      <link>/post/2012-09-21-r-style-guide/</link>
+      <pubDate>Fri, 21 Sep 2012 22:59:18 -0700</pubDate>
+      
+      <guid>/post/2012-09-21-r-style-guide/</guid>
+      <description>This is mainly a note to self:
+There are several style guides for R out there. I particularly like the one from Google and the somewhat lighter version of Hadley (ggplot god).
+All of that style guide thinking started after a question on  about R workflow &amp;#8230; How do we organize large R projects. Hadley (again) is favoring an Load-Clean-Func-Do approach which looks somewhat like that:
+ load.R # load data clean.</description>
+    </item>
+    
+    <item>
+      <title>Religion and # of babies &amp;#8230;</title>
+      <link>/post/2012-05-24-religion-and-of-babies/</link>
+      <pubDate>Thu, 24 May 2012 00:05:00 -0700</pubDate>
+      
+      <guid>/post/2012-05-24-religion-and-of-babies/</guid>
+      <description>Religion seems to have little influence on the # of babies per woman &amp;#8211; who might have thought &amp;#8230;
+Here is another excellent talk of Hans Rösling on the topic.</description>
+    </item>
+    
+    <item>
+      <title>On writing in social science</title>
+      <link>/post/2012-02-03-on-writing-in-social-science/</link>
+      <pubDate>Fri, 03 Feb 2012 02:37:44 -0700</pubDate>
+      
+      <guid>/post/2012-02-03-on-writing-in-social-science/</guid>
+      <description>Malcom Gladwell (author of Blink and Tipping point) meets Dan Ariely (author of Predictively Irrational and Ig Nobel Prize Winner) to chat on what are good strategies in selecting topics to write about and the difficulties of wading through complex information &amp;#8230; Its called a research chat</description>
+    </item>
+    
+    <item>
+      <title>Flashlight as a process tracing method</title>
+      <link>/publication/schulte-2012-flashlight/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/schulte-2012-flashlight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>how decisions deplete and breaks help</title>
+      <link>/post/2011-08-18-how-decisions-deplete-and-breaks-help/</link>
+      <pubDate>Thu, 18 Aug 2011 22:31:18 -0700</pubDate>
+      
+      <guid>/post/2011-08-18-how-decisions-deplete-and-breaks-help/</guid>
+      <description>The New York Times published a nice overview of the work on decision making and ego depletion (often ego depletion is used as a synonym with resource depletion, which is somewhat confusing because of the use of the later in economy to described the situation when raw materials are exhausted in a region).
+A new paper from Jonathan Levav (now at Standford &amp;#8211; congrats!) is prominently featured in the above article.</description>
+    </item>
+    
+    <item>
+      <title>Why anybody should learn/use R &amp;#8230;</title>
+      <link>/post/2011-08-02-why-anybody-should-learnuse-r/</link>
+      <pubDate>Tue, 02 Aug 2011 06:36:14 -0700</pubDate>
+      
+      <guid>/post/2011-08-02-why-anybody-should-learnuse-r/</guid>
+      <description>I had a discussion the other day on the re-appearing topic why one should learn R &amp;#8230;
+I took the list below from the R-Bloggers which argues why grad students should learn R:
+ R is free, and lets grad students escape the burdens of commercial license costs. R has really good online documentation; and the community is unparalleled.  The command-line interface is perfect for learning by doing.  R is on the cutting edge, and expanding rapidly.</description>
+    </item>
+    
+    <item>
+      <title>awesome visualization tool for R</title>
+      <link>/post/2011-07-15-awesome-visualization-tool-for-r/</link>
+      <pubDate>Fri, 15 Jul 2011 04:07:04 -0700</pubDate>
+      
+      <guid>/post/2011-07-15-awesome-visualization-tool-for-r/</guid>
+      <description>http://cran.r-project.org/web/packages/googleVis/ enables chart generation similar to the ones instroduced by Hans Roesling in his TED talk on poverty &amp;#8211; extremly cool 🙂</description>
+    </item>
+    
+    <item>
+      <title>resinstalling packages in R after update</title>
+      <link>/post/2011-04-14-resinstalling-packages-in-r-after-update/</link>
+      <pubDate>Thu, 14 Apr 2011 23:15:45 -0700</pubDate>
+      
+      <guid>/post/2011-04-14-resinstalling-packages-in-r-after-update/</guid>
+      <description>The new version 2.13.0 of R has just been released and with the update comes the pain of re-installing all the packages from the old installation on the new one.
+Stackoverflow to the rescue! This posting provides a simple two step process of first writing a list of packages into a file on the disk in the old version, installing the new version and then comparing the exported list to the currently installed packages in the new version with setdiff.</description>
+    </item>
+    
+    <item>
+      <title>Sustainable research</title>
+      <link>/post/2011-04-10-sustainable-research/</link>
+      <pubDate>Sun, 10 Apr 2011 04:25:33 -0700</pubDate>
+      
+      <guid>/post/2011-04-10-sustainable-research/</guid>
+      <description>A sister blog with interesting contributions on what open source software researcher can use to work sustainable &amp;#8230;
+  http://www.surefoss.org/  &amp;nbsp;</description>
+    </item>
+    
+    <item>
+      <title>Psychology as a reproducible Science</title>
+      <link>/post/2011-03-15-psychology-as-a-reproducible-science/</link>
+      <pubDate>Tue, 15 Mar 2011 13:30:49 -0700</pubDate>
+      
+      <guid>/post/2011-03-15-psychology-as-a-reproducible-science/</guid>
+      <description>Is Psychology ready for reproducible research?
+Today the typical research process in psychology looks generally like this: we collect data; analyze them in many ways; write a draft article based on some of the results; submit the draft to a journal; maybe produce a revision following the suggestions of the reviewers and editors; and hopefully live long enough to actually see it published. All of these steps are closed to the public except for the last one &amp;#8211; the publication of the (often substantially) revised version of the paper.</description>
+    </item>
+    
+    <item>
+      <title>Blog-attack</title>
+      <link>/post/2011-03-01-blog-attack/</link>
+      <pubDate>Tue, 01 Mar 2011 01:58:43 -0700</pubDate>
+      
+      <guid>/post/2011-03-01-blog-attack/</guid>
+      <description>Here is what Andrew Gelman writes about an interview Colin Camerer gave on Spousomonics &amp;#8230; Looking forward to Camerer&amp;#8217;s reply &amp;#8230;</description>
+    </item>
+    
+    <item>
+      <title>A Handbook of Process Tracing Methods for Decision Research: A Critical Review and User&#39;s Guide</title>
+      <link>/publication/kuhberger-2011-handbook/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/kuhberger-2011-handbook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A handbook of process tracing methods for decision research: A critical review and user’s guide</title>
+      <link>/publication/schulte-2011-handbook/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/schulte-2011-handbook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Determining the information participants need: methods of active information search</title>
+      <link>/publication/huber-2011-determining/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/huber-2011-determining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flashlight--Recording information acquisition online</title>
+      <link>/publication/schulte-2011-flashlight/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/schulte-2011-flashlight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of process data in the development and testing of process models of judgment and decision making.</title>
+      <link>/publication/schulte-2011-role/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/schulte-2011-role/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Where you end up, having a PhD</title>
+      <link>/post/2010-08-18-where-you-end-up-having-a-phd/</link>
+      <pubDate>Wed, 18 Aug 2010 06:20:29 -0700</pubDate>
+      
+      <guid>/post/2010-08-18-where-you-end-up-having-a-phd/</guid>
+      <description>The illustrated guide from Kindergarten to PhD &amp;#8230;
+http://matt.might.net/articles/phd-school-in-pictures/</description>
+    </item>
+    
+    <item>
+      <title>two good things come together</title>
+      <link>/post/2010-07-15-two-good-things-come-together/</link>
+      <pubDate>Thu, 15 Jul 2010 01:49:54 -0700</pubDate>
+      
+      <guid>/post/2010-07-15-two-good-things-come-together/</guid>
+      <description>http://docs.latexlab.org/docs
+LaTeX and Google Docs together in one nice (free)application &amp;#8211; this is a brilliant idea, which gives you the power of LaTeX combined with the excellent collaboration possiblities of Google Docs &amp;#8211; if I would have a button it would say &amp;#8220;I like&amp;#8221; &amp;#8230;
+Here is a screenshot from the project page &amp;#8211; with LaTeX code on one side and the final output on the other &amp;#8230;</description>
+    </item>
+    
+    <item>
+      <title>R and the World Cup</title>
+      <link>/post/2010-07-13-r-and-the-world-cup/</link>
+      <pubDate>Tue, 13 Jul 2010 00:48:38 -0700</pubDate>
+      
+      <guid>/post/2010-07-13-r-and-the-world-cup/</guid>
+      <description>Across the street at the Revolution blog a nice example of using R with data from the cloud (see another post on this topic here) shows us the distribution of fouls during the just finished World Cup in a nice barchart. Even more interesting than the fact that Holland rules this category is the way the data are collected from a Google spreadsheet page.
+With the following simple code line:</description>
+    </item>
+    
+    <item>
+      <title>R goes cloud</title>
+      <link>/post/2010-04-16-r-goes-cloud/</link>
+      <pubDate>Fri, 16 Apr 2010 23:24:03 -0700</pubDate>
+      
+      <guid>/post/2010-04-16-r-goes-cloud/</guid>
+      <description>Jeroen Ooms did for R what Google did for editing documents online. He created several software packages that help running R with a nice frontend over the Internet.
+I first learned about Jeroen&amp;#8217;s website through his implementation of ggplot2 &amp;#8211; this page is useful to generate graphs with the powerful ggplot2 package without R knowledge, however it is even more helpful to learn ggplot2 code with the View-code panel function which displays the underlying R code.</description>
+    </item>
+    
+    <item>
+      <title>LaTeX looks more scientific</title>
+      <link>/post/2010-03-18-latex-looks-more-scientific/</link>
+      <pubDate>Thu, 18 Mar 2010 06:42:04 -0700</pubDate>
+      
+      <guid>/post/2010-03-18-latex-looks-more-scientific/</guid>
+      <description>There are long discussions on the benefits of LaTeX over Word, but this statement from a (not too serious) paper of Andrew Gelman (a Professor of Statistics and Political Sciences at Columbia University) hits the spot:</description>
+    </item>
+    
+    <item>
+      <title>A handbook of process tracing methods for decision research: A critical review and user’s guide</title>
+      <link>/publication/figner-2010-handbook/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/figner-2010-handbook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows for understanding the mind: Introduction to a handbook of process tracing methods for decision research</title>
+      <link>/publication/kuhberger-2010-windows/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/kuhberger-2010-windows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accepting to fail (in the name of science)</title>
+      <link>/post/2009-12-22-accepting-to-fail-in-the-name-of-science/</link>
+      <pubDate>Tue, 22 Dec 2009 05:00:24 -0700</pubDate>
+      
+      <guid>/post/2009-12-22-accepting-to-fail-in-the-name-of-science/</guid>
+      <description>Very interesting article in WIRED on accepting failure and how ignoring it changes the way scientists make progress (or not).
+Good theme for new years resolutions &amp;#8230;
+In the meantime: Happy Holidays!</description>
+    </item>
+    
+    <item>
+      <title>How WEIRD subjects can be overcome &amp;#8230; a comment on Henrich et al.</title>
+      <link>/post/2009-12-12-how-weird-subjects-can-be-overcome-a-comment-on-henrich-et-al/</link>
+      <pubDate>Sat, 12 Dec 2009 06:11:14 -0700</pubDate>
+      
+      <guid>/post/2009-12-12-how-weird-subjects-can-be-overcome-a-comment-on-henrich-et-al/</guid>
+      <description>Joe Henrich published a target article in BBS talking about how economics and psychology base their research on WEIRD (Western, Educated, Industrialized, Rich and Democratic) subjects.
+Here is the whole abstract:
+&amp;#8212;
+Behavioral scientists routinely publish broad claims about human psychology and behavior in the world’s top journals based on samples drawn entirely from Western, Educated, Industrialized, Rich and Democratic (WEIRD) societies. Researchers—often implicitly—assume that either there is little variation across human populations, or that these “standard subjects” are as representative of the species as any other population.</description>
+    </item>
+    
+    <item>
+      <title>Lattice versus ggplot2</title>
+      <link>/post/2009-10-24-lattice-versus-ggplot2/</link>
+      <pubDate>Sat, 24 Oct 2009 20:15:50 -0700</pubDate>
+      
+      <guid>/post/2009-10-24-lattice-versus-ggplot2/</guid>
+      <description>I really liked Lattice for generating graphs in R until I saw what ggplot2 can do &amp;#8230;
+One of the big differences between the two is the theory on which ggplot2 is based upon. There are clear modular building blocks that can be applied in a consistent manner on any graph generated. Both packages are extremely versatile but at the end of the day I think ggplot2 provides a clearer structure and hence more flexibility &amp;#8230;</description>
+    </item>
+    
+    <item>
+      <title>R flashmob</title>
+      <link>/post/2009-09-06-r-flashmob/</link>
+      <pubDate>Sun, 06 Sep 2009 23:07:06 -0700</pubDate>
+      
+      <guid>/post/2009-09-06-r-flashmob/</guid>
+      <description>From: The R Flashmob Project
+Subject: R Flashmob #2
+You are invited to take part in R Flashmob, the project that makes the
+world a better place by posting helpful questions and answers about the
+R statistical language to the programmer’s Q &amp;amp; A site stackoverflow.com
+Please forward this to other people you know who might like to join.
+FAQ
+Q. Why would I want to join an inexplicable R mob?</description>
+    </item>
+    
+    <item>
+      <title>Flashlight paper draft</title>
+      <link>/post/2009-07-13-flashlight-paper-draft/</link>
+      <pubDate>Mon, 13 Jul 2009 02:20:25 -0700</pubDate>
+      
+      <guid>/post/2009-07-13-flashlight-paper-draft/</guid>
+      <description>We submitted our Flashlight paper today. Find a draft at the address below:
+Schulte-Mecklenbeck, Michael , Murphy, Ryan O. and Hutzler, Florian,Flashlight &amp;#8211; an Online Eye-Tracking Tool(July 13, 2009). Available at SSRN: http://ssrn.com/abstract=1433225
+
+The software will be uploaded to the project page http://vlab.ethz.ch/vLab_Decision_Theory_and_Behavioral_Game_Theory/Flashlight.html.
+Have fun playing with it!</description>
+    </item>
+    
+    <item>
+      <title>LaTeX tips</title>
+      <link>/post/2009-06-25-latex-tips/</link>
+      <pubDate>Thu, 25 Jun 2009 11:13:33 -0700</pubDate>
+      
+      <guid>/post/2009-06-25-latex-tips/</guid>
+      <description>Two things are often bothering when one starts to work with LaTeX: in text referencing of literature and Umlaute (for our German speaking friends) ****
+Referencing: Here is a list of 5 types of in text referencing. To get them to work in a LaTeX file you need to define a referencing style in your document (in the example I use APA &amp;#8211; American Psychological Association), you can of course use any style you want!</description>
+    </item>
+    
+    <item>
+      <title>XAMPP activating mysql</title>
+      <link>/post/2009-06-17-xampp-activating-mysql/</link>
+      <pubDate>Wed, 17 Jun 2009 12:50:56 -0700</pubDate>
+      
+      <guid>/post/2009-06-17-xampp-activating-mysql/</guid>
+      <description>Here is the problem: I want to have a server (Apache, MySQL) on my local machine (for the current purpose it was a Windows machine) to do some developing, testing or a demo. Getting XAMPP at Sourceforge is straight forward, installing it works like a charm.
+BUT
+A problem coming back from time to time is the following: the MySQL daemon does not start.
+Hmmmm
+Here are some steps that helped me:</description>
+    </item>
+    
+    <item>
+      <title>double, triple or even sextuple blind?</title>
+      <link>/post/2009-06-14-double-triple-or-even-sextuple-blind/</link>
+      <pubDate>Sun, 14 Jun 2009 03:21:01 -0700</pubDate>
+      
+      <guid>/post/2009-06-14-double-triple-or-even-sextuple-blind/</guid>
+      <description>There is an interesting discussion on how the scientific review process should be handled going on at orgtheory.net blog. The point is that the obvious shortcomings in the current review system (the authors know who the editor is (and vice versa), the reviewer knows (or can easily infer) who the author is &amp;#8230;) can be handle through triple blind reviews: authors, reviewers AND editors are included (anonymous upload to a webpage (id through a code), quatruple blind reviews: no one know who the editor of the journal is, quintimple blind: after publication of a paper the authors name is kept secret for some years or, and that&amp;#8217;s the actual kicker: sextuple blind: there is no journal name any more &amp;#8211; just the paper and the users decide whether it is worth citing or not &amp;#8230;</description>
+    </item>
+    
+    <item>
+      <title>Inference and R</title>
+      <link>/post/2009-06-05-inference-and-r/</link>
+      <pubDate>Fri, 05 Jun 2009 13:28:22 -0700</pubDate>
+      
+      <guid>/post/2009-06-05-inference-and-r/</guid>
+      <description>Dan Goldstein posted a short overview of Inference which allows working with R code in Microsoft Office and Excel.
+I want to point at Sweave which does an excellent job in connecting R to LaTeX. Here is a short demo of Sweave which also connects the approach of Sweave to the &amp;#8216;literate programming&amp;#8216; idea of Donald Knuth (Father of &amp;#8216;The Art of Computer Programming&amp;#8217; and TeX).
+The basic idea is to combine programming (an analysis in the case of R) with documentation into one process.</description>
+    </item>
+    
+    <item>
+      <title>create colored title in R plot</title>
+      <link>/post/2009-05-17-create-colored-title-in-r-plot/</link>
+      <pubDate>Sun, 17 May 2009 12:59:53 -0700</pubDate>
+      
+      <guid>/post/2009-05-17-create-colored-title-in-r-plot/</guid>
+      <description>David Smith has a very nice code example in which he sets the color of title word in a plot to the actual grouping color. Code can be found here. This seems extremely useful for posters and presentations. I doubt however that journals would pick up on that &amp;#8230;</description>
+    </item>
+    
+    <item>
+      <title>Take a quick click at that! Mouselab and eye-tracking as tools to measure intuition</title>
+      <link>/publication/norman-2009-take/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/norman-2009-take/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Priority Heuristic comment</title>
+      <link>/post/2008-03-17-priority-heuristic-comment/</link>
+      <pubDate>Mon, 17 Mar 2008 12:55:58 -0700</pubDate>
+      
+      <guid>/post/2008-03-17-priority-heuristic-comment/</guid>
+      <description>We (Johnson, Schulte-Mecklenbeck, &amp;amp; Willemsen, 2008) have got a new paper out that comments on the Priority Heuristic as described in Brandstaetter, Gigerenzer and Hertwig, 2006.
+Resolution of debates in cognition usually comes from the introduction of constraints in the form of new data about either the process or representation. Decision research, in contrast, has relied predominantly on testing models by examining their fit to choices. The authors examine a recently proposed choice strategy, the priority heuristic, which provides a novel account of how people make risky choices.</description>
+    </item>
+    
+    <item>
+      <title>Postscript: Rejoinder to Brandstätter, Gigerenzer, and Hertwig (2008).</title>
+      <link>/publication/johnson-2008-postscript/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/johnson-2008-postscript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Process models deserve process data: Comment on Brandstätter, Gigerenzer, and Hertwig (2006).</title>
+      <link>/publication/johnson-2008-process/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/johnson-2008-process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brave New World... Wide Web: Blending Old Teaching</title>
+      <link>/publication/schulte-2005-brave/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/schulte-2005-brave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WebDiP: A tool for information search experiments on the World-Wide Web</title>
+      <link>/publication/schulte-2005-webdip/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/schulte-2005-webdip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information search in the laboratory and on the Web: With or without an experimenter</title>
+      <link>/publication/schulte-2003-information/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/schulte-2003-information/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Framing decisions: Hypothetical and real</title>
+      <link>/publication/kuhberger-2002-framing/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/kuhberger-2002-framing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effects of framing, reflection, probability, and payoff on risk preference in choice tasks</title>
+      <link>/publication/kuhberger-1999-effects/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/kuhberger-1999-effects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Choice or no choice: is the langer effect evidence against simulation?</title>
+      <link>/publication/kuhberger-1995-choice/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/kuhberger-1995-choice/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

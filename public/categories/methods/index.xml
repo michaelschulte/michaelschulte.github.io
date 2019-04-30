@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Methods on Michael Schulte-Mecklenbeck</title>
+    <link>/categories/methods/</link>
+    <description>Recent content in Methods on Michael Schulte-Mecklenbeck</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>{year}</copyright>
+    <lastBuildDate>Mon, 13 Mar 2017 12:20:52 -0700</lastBuildDate>
+    
+	<atom:link href="/categories/methods/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Eye-Tracking with N &gt; 1</title>
+      <link>/post/2017-03-13-eye-tracking-with-n-1/</link>
+      <pubDate>Mon, 13 Mar 2017 12:20:52 -0700</pubDate>
+      
+      <guid>/post/2017-03-13-eye-tracking-with-n-1/</guid>
+      <description>This is one of the fastest papers I have ever written. It was a great collaboration with Tomás Lejarraga from the Universitat de les Illes Balears. Why was it great? Because it is one of the rare cases (at least in my academic life) where all people involved in a project contribute equally and quickly. Often, the weight of a contribution lies with one person which slows down things &amp;#8211; with Tomás this was different &amp;#8211; we were often sitting in front of a computer writing together (have never done this before, thought it would not work).</description>
+    </item>
+    
+    <item>
+      <title>New Paper on pychodiagnosis and eye-tracking</title>
+      <link>/post/2015-11-10-new-paper-on-pychodiagnosis-and-eye-tracking/</link>
+      <pubDate>Tue, 10 Nov 2015 03:39:33 -0700</pubDate>
+      
+      <guid>/post/2015-11-10-new-paper-on-pychodiagnosis-and-eye-tracking/</guid>
+      <description>Cilia Witteman and Nanon Spaanjaars (my dutch connection) worked together on a piece on whether psychodiagnosticians improve over time (they don&amp;#8217;t) in their ability to classify symptoms to DSM categories. This turned out to be a pretty cool paper combining eye-tracking data with a practical, and hopefully, relevant question.
+Schulte-Mecklenbeck, M., Spaanjaars, N.L., &amp;amp; Witteman, C.L.M. (in press). The (in)visibility of psychodiagnosticians&amp;#8217; expertise. Journal of Behavioral Decision Making. http://dx.doi.org/10.1002/bdm.1925
+ Abstract  This study investigates decision making in mental health care.</description>
+    </item>
+    
+    <item>
+      <title>Why anybody should learn/use R &amp;#8230;</title>
+      <link>/post/2011-08-02-why-anybody-should-learnuse-r/</link>
+      <pubDate>Tue, 02 Aug 2011 06:36:14 -0700</pubDate>
+      
+      <guid>/post/2011-08-02-why-anybody-should-learnuse-r/</guid>
+      <description>I had a discussion the other day on the re-appearing topic why one should learn R &amp;#8230;
+I took the list below from the R-Bloggers which argues why grad students should learn R:
+ R is free, and lets grad students escape the burdens of commercial license costs. R has really good online documentation; and the community is unparalleled.  The command-line interface is perfect for learning by doing.  R is on the cutting edge, and expanding rapidly.</description>
+    </item>
+    
+    <item>
+      <title>Psychology as a reproducible Science</title>
+      <link>/post/2011-03-15-psychology-as-a-reproducible-science/</link>
+      <pubDate>Tue, 15 Mar 2011 13:30:49 -0700</pubDate>
+      
+      <guid>/post/2011-03-15-psychology-as-a-reproducible-science/</guid>
+      <description>Is Psychology ready for reproducible research?
+Today the typical research process in psychology looks generally like this: we collect data; analyze them in many ways; write a draft article based on some of the results; submit the draft to a journal; maybe produce a revision following the suggestions of the reviewers and editors; and hopefully live long enough to actually see it published. All of these steps are closed to the public except for the last one &amp;#8211; the publication of the (often substantially) revised version of the paper.</description>
+    </item>
+    
+    <item>
+      <title>R goes cloud</title>
+      <link>/post/2010-04-16-r-goes-cloud/</link>
+      <pubDate>Fri, 16 Apr 2010 23:24:03 -0700</pubDate>
+      
+      <guid>/post/2010-04-16-r-goes-cloud/</guid>
+      <description>Jeroen Ooms did for R what Google did for editing documents online. He created several software packages that help running R with a nice frontend over the Internet.
+I first learned about Jeroen&amp;#8217;s website through his implementation of ggplot2 &amp;#8211; this page is useful to generate graphs with the powerful ggplot2 package without R knowledge, however it is even more helpful to learn ggplot2 code with the View-code panel function which displays the underlying R code.</description>
+    </item>
+    
+    <item>
+      <title>How WEIRD subjects can be overcome &amp;#8230; a comment on Henrich et al.</title>
+      <link>/post/2009-12-12-how-weird-subjects-can-be-overcome-a-comment-on-henrich-et-al/</link>
+      <pubDate>Sat, 12 Dec 2009 06:11:14 -0700</pubDate>
+      
+      <guid>/post/2009-12-12-how-weird-subjects-can-be-overcome-a-comment-on-henrich-et-al/</guid>
+      <description>Joe Henrich published a target article in BBS talking about how economics and psychology base their research on WEIRD (Western, Educated, Industrialized, Rich and Democratic) subjects.
+Here is the whole abstract:
+&amp;#8212;
+Behavioral scientists routinely publish broad claims about human psychology and behavior in the world’s top journals based on samples drawn entirely from Western, Educated, Industrialized, Rich and Democratic (WEIRD) societies. Researchers—often implicitly—assume that either there is little variation across human populations, or that these “standard subjects” are as representative of the species as any other population.</description>
+    </item>
+    
+  </channel>
+</rss>

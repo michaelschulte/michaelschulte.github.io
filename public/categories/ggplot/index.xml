@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ggplot on Michael Schulte-Mecklenbeck</title>
+    <link>/categories/ggplot/</link>
+    <description>Recent content in ggplot on Michael Schulte-Mecklenbeck</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>{year}</copyright>
+    <lastBuildDate>Wed, 12 Apr 2017 07:29:00 -0700</lastBuildDate>
+    
+	<atom:link href="/categories/ggplot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Something about reverse inference</title>
+      <link>/post/2017-04-12-something-about-reverse-inference/</link>
+      <pubDate>Wed, 12 Apr 2017 07:29:00 -0700</pubDate>
+      
+      <guid>/post/2017-04-12-something-about-reverse-inference/</guid>
+      <description>Often, when we run process tracing studies (e.g., eye-tracking, mouse-tracking, thinking-aloud) we talk about cognitive processes (things we can&amp;#8217;t observe) in a way that they are actually and directly observable. This is pretty weird &amp;#8211; which becomes obvious when looking at the data from the paper below. In this paper we simply instruct participants to follow a strategy when making choices between risky gamble problems. Taking the example of fixation duration we see that there is surprisingly litte difference between calculating an expected value, using a heuristic (priority heuristic) and just making decisions without instructions (no instruction) &amp;#8230; maybe we should rethink our mapping of observation to cognitive processes a bit?</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eric J Johnson on Michael Schulte-Mecklenbeck</title>
+    <link>/authors/eric-j-johnson/</link>
+    <description>Recent content in Eric J Johnson on Michael Schulte-Mecklenbeck</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>{year}</copyright>
+    <lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/eric-j-johnson/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Postscript: Rejoinder to Brandstätter, Gigerenzer, and Hertwig (2008).</title>
+      <link>/publication/johnson-2008-postscript/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/johnson-2008-postscript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Process models deserve process data: Comment on Brandstätter, Gigerenzer, and Hertwig (2006).</title>
+      <link>/publication/johnson-2008-process/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/johnson-2008-process/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

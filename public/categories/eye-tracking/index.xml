@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eye tracking on Michael Schulte-Mecklenbeck</title>
+    <link>/categories/eye-tracking/</link>
+    <description>Recent content in Eye tracking on Michael Schulte-Mecklenbeck</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>{year}</copyright>
+    <lastBuildDate>Mon, 13 Mar 2017 12:20:52 -0700</lastBuildDate>
+    
+	<atom:link href="/categories/eye-tracking/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Eye-Tracking with N &gt; 1</title>
+      <link>/post/2017-03-13-eye-tracking-with-n-1/</link>
+      <pubDate>Mon, 13 Mar 2017 12:20:52 -0700</pubDate>
+      
+      <guid>/post/2017-03-13-eye-tracking-with-n-1/</guid>
+      <description>This is one of the fastest papers I have ever written. It was a great collaboration with Tomás Lejarraga from the Universitat de les Illes Balears. Why was it great? Because it is one of the rare cases (at least in my academic life) where all people involved in a project contribute equally and quickly. Often, the weight of a contribution lies with one person which slows down things &amp;#8211; with Tomás this was different &amp;#8211; we were often sitting in front of a computer writing together (have never done this before, thought it would not work).</description>
+    </item>
+    
+    <item>
+      <title>New Paper on pychodiagnosis and eye-tracking</title>
+      <link>/post/2015-11-10-new-paper-on-pychodiagnosis-and-eye-tracking/</link>
+      <pubDate>Tue, 10 Nov 2015 03:39:33 -0700</pubDate>
+      
+      <guid>/post/2015-11-10-new-paper-on-pychodiagnosis-and-eye-tracking/</guid>
+      <description>Cilia Witteman and Nanon Spaanjaars (my dutch connection) worked together on a piece on whether psychodiagnosticians improve over time (they don&amp;#8217;t) in their ability to classify symptoms to DSM categories. This turned out to be a pretty cool paper combining eye-tracking data with a practical, and hopefully, relevant question.
+Schulte-Mecklenbeck, M., Spaanjaars, N.L., &amp;amp; Witteman, C.L.M. (in press). The (in)visibility of psychodiagnosticians&amp;#8217; expertise. Journal of Behavioral Decision Making. http://dx.doi.org/10.1002/bdm.1925
+ Abstract  This study investigates decision making in mental health care.</description>
+    </item>
+    
+  </channel>
+</rss>

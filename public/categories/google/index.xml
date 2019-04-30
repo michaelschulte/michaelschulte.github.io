@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Google on Michael Schulte-Mecklenbeck</title>
+    <link>/categories/google/</link>
+    <description>Recent content in Google on Michael Schulte-Mecklenbeck</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>{year}</copyright>
+    <lastBuildDate>Fri, 21 Sep 2012 22:59:18 -0700</lastBuildDate>
+    
+	<atom:link href="/categories/google/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>R Style Guide</title>
+      <link>/post/2012-09-21-r-style-guide/</link>
+      <pubDate>Fri, 21 Sep 2012 22:59:18 -0700</pubDate>
+      
+      <guid>/post/2012-09-21-r-style-guide/</guid>
+      <description>This is mainly a note to self:
+There are several style guides for R out there. I particularly like the one from Google and the somewhat lighter version of Hadley (ggplot god).
+All of that style guide thinking started after a question on  about R workflow &amp;#8230; How do we organize large R projects. Hadley (again) is favoring an Load-Clean-Func-Do approach which looks somewhat like that:
+ load.R # load data clean.</description>
+    </item>
+    
+    <item>
+      <title>Religion and # of babies &amp;#8230;</title>
+      <link>/post/2012-05-24-religion-and-of-babies/</link>
+      <pubDate>Thu, 24 May 2012 00:05:00 -0700</pubDate>
+      
+      <guid>/post/2012-05-24-religion-and-of-babies/</guid>
+      <description>Religion seems to have little influence on the # of babies per woman &amp;#8211; who might have thought &amp;#8230;
+Here is another excellent talk of Hans Rösling on the topic.</description>
+    </item>
+    
+    <item>
+      <title>awesome visualization tool for R</title>
+      <link>/post/2011-07-15-awesome-visualization-tool-for-r/</link>
+      <pubDate>Fri, 15 Jul 2011 04:07:04 -0700</pubDate>
+      
+      <guid>/post/2011-07-15-awesome-visualization-tool-for-r/</guid>
+      <description>http://cran.r-project.org/web/packages/googleVis/ enables chart generation similar to the ones instroduced by Hans Roesling in his TED talk on poverty &amp;#8211; extremly cool 🙂</description>
+    </item>
+    
+  </channel>
+</rss>

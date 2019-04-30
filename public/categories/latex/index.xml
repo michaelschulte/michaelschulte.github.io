@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LaTeX on Michael Schulte-Mecklenbeck</title>
+    <link>/categories/latex/</link>
+    <description>Recent content in LaTeX on Michael Schulte-Mecklenbeck</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>{year}</copyright>
+    <lastBuildDate>Sun, 30 Apr 2017 23:16:22 -0700</lastBuildDate>
+    
+	<atom:link href="/categories/latex/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LaTeX &lt;- pdfTeX, LuaTeX, XeTeX</title>
+      <link>/post/2017-04-30-latex/</link>
+      <pubDate>Sun, 30 Apr 2017 23:16:22 -0700</pubDate>
+      
+      <guid>/post/2017-04-30-latex/</guid>
+      <description>I have been using LaTeX (with pdfTeX) for 20+ years now &amp;#8211; to be honest I never bothered to understand the differences between the different TeX engines &amp;#8211; here is an excellent article by Graham Douglas explaining the ins and outs of the TeX engine(s).
+&amp;#8230; the article also features Overleaf a shared TeX environment &amp;#8230; sweet!</description>
+    </item>
+    
+    <item>
+      <title>Sublime autocompletion</title>
+      <link>/post/2016-01-28-sublime-autocompletion/</link>
+      <pubDate>Thu, 28 Jan 2016 08:47:44 -0700</pubDate>
+      
+      <guid>/post/2016-01-28-sublime-autocompletion/</guid>
+      <description>They say about Sublime: &amp;#8220;The text editor you will fall in love with&amp;#8221;
+hmm &amp;#8211; kind of did that.
+One reason being that when coding LaTeX in Sublime there is an awesome autocompletion feature:
+Type &amp;#8216;enum&amp;#8217; and you get:
+&amp;nbsp;
+&amp;nbsp;
+&amp;nbsp;
+Shift + Enter within an itemize adds a new \item
+&amp;nbsp;
+&amp;nbsp;
+&amp;nbsp;
+AFK to cry &amp;#8230; tears of joy 🙂
+Everything stolen from here</description>
+    </item>
+    
+    <item>
+      <title>Psychology as a reproducible Science</title>
+      <link>/post/2011-03-15-psychology-as-a-reproducible-science/</link>
+      <pubDate>Tue, 15 Mar 2011 13:30:49 -0700</pubDate>
+      
+      <guid>/post/2011-03-15-psychology-as-a-reproducible-science/</guid>
+      <description>Is Psychology ready for reproducible research?
+Today the typical research process in psychology looks generally like this: we collect data; analyze them in many ways; write a draft article based on some of the results; submit the draft to a journal; maybe produce a revision following the suggestions of the reviewers and editors; and hopefully live long enough to actually see it published. All of these steps are closed to the public except for the last one &amp;#8211; the publication of the (often substantially) revised version of the paper.</description>
+    </item>
+    
+    <item>
+      <title>two good things come together</title>
+      <link>/post/2010-07-15-two-good-things-come-together/</link>
+      <pubDate>Thu, 15 Jul 2010 01:49:54 -0700</pubDate>
+      
+      <guid>/post/2010-07-15-two-good-things-come-together/</guid>
+      <description>http://docs.latexlab.org/docs
+LaTeX and Google Docs together in one nice (free)application &amp;#8211; this is a brilliant idea, which gives you the power of LaTeX combined with the excellent collaboration possiblities of Google Docs &amp;#8211; if I would have a button it would say &amp;#8220;I like&amp;#8221; &amp;#8230;
+Here is a screenshot from the project page &amp;#8211; with LaTeX code on one side and the final output on the other &amp;#8230;</description>
+    </item>
+    
+    <item>
+      <title>LaTeX looks more scientific</title>
+      <link>/post/2010-03-18-latex-looks-more-scientific/</link>
+      <pubDate>Thu, 18 Mar 2010 06:42:04 -0700</pubDate>
+      
+      <guid>/post/2010-03-18-latex-looks-more-scientific/</guid>
+      <description>There are long discussions on the benefits of LaTeX over Word, but this statement from a (not too serious) paper of Andrew Gelman (a Professor of Statistics and Political Sciences at Columbia University) hits the spot:</description>
+    </item>
+    
+    <item>
+      <title>LaTeX tips</title>
+      <link>/post/2009-06-25-latex-tips/</link>
+      <pubDate>Thu, 25 Jun 2009 11:13:33 -0700</pubDate>
+      
+      <guid>/post/2009-06-25-latex-tips/</guid>
+      <description>Two things are often bothering when one starts to work with LaTeX: in text referencing of literature and Umlaute (for our German speaking friends) ****
+Referencing: Here is a list of 5 types of in text referencing. To get them to work in a LaTeX file you need to define a referencing style in your document (in the example I use APA &amp;#8211; American Psychological Association), you can of course use any style you want!</description>
+    </item>
+    
+  </channel>
+</rss>

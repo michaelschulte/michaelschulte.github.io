@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heuristics on Michael Schulte-Mecklenbeck</title>
+    <link>/categories/heuristics/</link>
+    <description>Recent content in Heuristics on Michael Schulte-Mecklenbeck</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>{year}</copyright>
+    <lastBuildDate>Mon, 17 Mar 2008 12:55:58 -0700</lastBuildDate>
+    
+	<atom:link href="/categories/heuristics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Priority Heuristic comment</title>
+      <link>/post/2008-03-17-priority-heuristic-comment/</link>
+      <pubDate>Mon, 17 Mar 2008 12:55:58 -0700</pubDate>
+      
+      <guid>/post/2008-03-17-priority-heuristic-comment/</guid>
+      <description>We (Johnson, Schulte-Mecklenbeck, &amp;amp; Willemsen, 2008) have got a new paper out that comments on the Priority Heuristic as described in Brandstaetter, Gigerenzer and Hertwig, 2006.
+Resolution of debates in cognition usually comes from the introduction of constraints in the form of new data about either the process or representation. Decision research, in contrast, has relied predominantly on testing models by examining their fit to choices. The authors examine a recently proposed choice strategy, the priority heuristic, which provides a novel account of how people make risky choices.</description>
+    </item>
+    
+  </channel>
+</rss>

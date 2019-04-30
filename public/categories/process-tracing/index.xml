@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>process tracing on Michael Schulte-Mecklenbeck</title>
+    <link>/categories/process-tracing/</link>
+    <description>Recent content in process tracing on Michael Schulte-Mecklenbeck</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>{year}</copyright>
+    <lastBuildDate>Wed, 12 Apr 2017 07:45:12 -0700</lastBuildDate>
+    
+	<atom:link href="/categories/process-tracing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Growing up to be old</title>
+      <link>/post/2017-04-12-growing-up-to-be-old/</link>
+      <pubDate>Wed, 12 Apr 2017 07:45:12 -0700</pubDate>
+      
+      <guid>/post/2017-04-12-growing-up-to-be-old/</guid>
+      <description>Some papers have somewhat weird starting points &amp;#8211; this one had an awesome starting point &amp;#8211; Lake Louise (Canada):
+In a little suite we (Joe Johnson, Ulf Böckenholt, Dan Goldstein, Jay Russo, Nikki Sullivan, Martijn Willemsen) sat down during a conference called the &amp;#8216;Choice Symposium&amp;#8216; and started working on an overview paper about the history and current status of different process tracing methods. One central result (why can&amp;#8217;t all papers be like that) is the figure below where we try to locate many process tracing methods on the two dimensions: temporal resolution and distortion risk (i.</description>
+    </item>
+    
+    <item>
+      <title>Something about reverse inference</title>
+      <link>/post/2017-04-12-something-about-reverse-inference/</link>
+      <pubDate>Wed, 12 Apr 2017 07:29:00 -0700</pubDate>
+      
+      <guid>/post/2017-04-12-something-about-reverse-inference/</guid>
+      <description>Often, when we run process tracing studies (e.g., eye-tracking, mouse-tracking, thinking-aloud) we talk about cognitive processes (things we can&amp;#8217;t observe) in a way that they are actually and directly observable. This is pretty weird &amp;#8211; which becomes obvious when looking at the data from the paper below. In this paper we simply instruct participants to follow a strategy when making choices between risky gamble problems. Taking the example of fixation duration we see that there is surprisingly litte difference between calculating an expected value, using a heuristic (priority heuristic) and just making decisions without instructions (no instruction) &amp;#8230; maybe we should rethink our mapping of observation to cognitive processes a bit?</description>
+    </item>
+    
+  </channel>
+</rss>

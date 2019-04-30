@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Science on Michael Schulte-Mecklenbeck</title>
+    <link>/categories/science/</link>
+    <description>Recent content in Science on Michael Schulte-Mecklenbeck</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>{year}</copyright>
+    <lastBuildDate>Sun, 30 Apr 2017 23:16:22 -0700</lastBuildDate>
+    
+	<atom:link href="/categories/science/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LaTeX &lt;- pdfTeX, LuaTeX, XeTeX</title>
+      <link>/post/2017-04-30-latex/</link>
+      <pubDate>Sun, 30 Apr 2017 23:16:22 -0700</pubDate>
+      
+      <guid>/post/2017-04-30-latex/</guid>
+      <description>I have been using LaTeX (with pdfTeX) for 20+ years now &amp;#8211; to be honest I never bothered to understand the differences between the different TeX engines &amp;#8211; here is an excellent article by Graham Douglas explaining the ins and outs of the TeX engine(s).
+&amp;#8230; the article also features Overleaf a shared TeX environment &amp;#8230; sweet!</description>
+    </item>
+    
+    <item>
+      <title>Everything you believe in is wrong &amp;#8211; or is it simply terrorism?</title>
+      <link>/post/2016-09-20-everything-you-believe-in-is-wrong-or-is-it-simply-terrorism/</link>
+      <pubDate>Tue, 20 Sep 2016 00:15:15 -0700</pubDate>
+      
+      <guid>/post/2016-09-20-everything-you-believe-in-is-wrong-or-is-it-simply-terrorism/</guid>
+      <description>The replication crisis has many interesting effects on how people (and scientists) think about Psychology (and, of course, other fields) &amp;#8230; Here is a nice summary of effects that are hard to replicate. Among them &amp;#8216;classics&amp;#8217; like the power pose or the big brother eyes.
+A lot is happening because of these new insights in terms of research (e.g., replication studies) and communication (e.g., Fritz Strack on Facebook).
+And then this: Susan Fiske in an upcoming piece in the APS Observer &amp;#8230; I am really struggling with this rhetoric &amp;#8211; Daniel Lakens to the rescue 🙂</description>
+    </item>
+    
+    <item>
+      <title>Everything is fucked &amp;#8230;</title>
+      <link>/post/2016-08-12-everything-is-fucked/</link>
+      <pubDate>Fri, 12 Aug 2016 00:05:23 -0700</pubDate>
+      
+      <guid>/post/2016-08-12-everything-is-fucked/</guid>
+      <description>This syllabus of an (obviously) awesome class has a ton of good reads:
+Everything is fucked: The&amp;nbsp;syllabus
+by Sanjay Srivastava
+I would have two additions:
+ A multi lab replication project on ego-depletion (Hagger &amp;amp; Chatzisarantis, 2016) And the response from Roy Baumeister and Kathleen D. Vohs  It&amp;#8217;s a really good statement of how f&amp;#8230; up things are (in addition to all the other good examples above) &amp;#8230;
+“A new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die, and a new generation grows up that is familiar with it.</description>
+    </item>
+    
+    <item>
+      <title>Where you end up, having a PhD</title>
+      <link>/post/2010-08-18-where-you-end-up-having-a-phd/</link>
+      <pubDate>Wed, 18 Aug 2010 06:20:29 -0700</pubDate>
+      
+      <guid>/post/2010-08-18-where-you-end-up-having-a-phd/</guid>
+      <description>The illustrated guide from Kindergarten to PhD &amp;#8230;
+http://matt.might.net/articles/phd-school-in-pictures/</description>
+    </item>
+    
+    <item>
+      <title>Accepting to fail (in the name of science)</title>
+      <link>/post/2009-12-22-accepting-to-fail-in-the-name-of-science/</link>
+      <pubDate>Tue, 22 Dec 2009 05:00:24 -0700</pubDate>
+      
+      <guid>/post/2009-12-22-accepting-to-fail-in-the-name-of-science/</guid>
+      <description>Very interesting article in WIRED on accepting failure and how ignoring it changes the way scientists make progress (or not).
+Good theme for new years resolutions &amp;#8230;
+In the meantime: Happy Holidays!</description>
+    </item>
+    
+    <item>
+      <title>How WEIRD subjects can be overcome &amp;#8230; a comment on Henrich et al.</title>
+      <link>/post/2009-12-12-how-weird-subjects-can-be-overcome-a-comment-on-henrich-et-al/</link>
+      <pubDate>Sat, 12 Dec 2009 06:11:14 -0700</pubDate>
+      
+      <guid>/post/2009-12-12-how-weird-subjects-can-be-overcome-a-comment-on-henrich-et-al/</guid>
+      <description>Joe Henrich published a target article in BBS talking about how economics and psychology base their research on WEIRD (Western, Educated, Industrialized, Rich and Democratic) subjects.
+Here is the whole abstract:
+&amp;#8212;
+Behavioral scientists routinely publish broad claims about human psychology and behavior in the world’s top journals based on samples drawn entirely from Western, Educated, Industrialized, Rich and Democratic (WEIRD) societies. Researchers—often implicitly—assume that either there is little variation across human populations, or that these “standard subjects” are as representative of the species as any other population.</description>
+    </item>
+    
+    <item>
+      <title>double, triple or even sextuple blind?</title>
+      <link>/post/2009-06-14-double-triple-or-even-sextuple-blind/</link>
+      <pubDate>Sun, 14 Jun 2009 03:21:01 -0700</pubDate>
+      
+      <guid>/post/2009-06-14-double-triple-or-even-sextuple-blind/</guid>
+      <description>There is an interesting discussion on how the scientific review process should be handled going on at orgtheory.net blog. The point is that the obvious shortcomings in the current review system (the authors know who the editor is (and vice versa), the reviewer knows (or can easily infer) who the author is &amp;#8230;) can be handle through triple blind reviews: authors, reviewers AND editors are included (anonymous upload to a webpage (id through a code), quatruple blind reviews: no one know who the editor of the journal is, quintimple blind: after publication of a paper the authors name is kept secret for some years or, and that&amp;#8217;s the actual kicker: sextuple blind: there is no journal name any more &amp;#8211; just the paper and the users decide whether it is worth citing or not &amp;#8230;</description>
+    </item>
+    
+  </channel>
+</rss>

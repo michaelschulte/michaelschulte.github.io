@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lifehacks on Michael Schulte-Mecklenbeck</title>
+    <link>/categories/lifehacks/</link>
+    <description>Recent content in Lifehacks on Michael Schulte-Mecklenbeck</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>{year}</copyright>
+    <lastBuildDate>Sun, 30 Apr 2017 23:16:22 -0700</lastBuildDate>
+    
+	<atom:link href="/categories/lifehacks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LaTeX &lt;- pdfTeX, LuaTeX, XeTeX</title>
+      <link>/post/2017-04-30-latex/</link>
+      <pubDate>Sun, 30 Apr 2017 23:16:22 -0700</pubDate>
+      
+      <guid>/post/2017-04-30-latex/</guid>
+      <description>I have been using LaTeX (with pdfTeX) for 20+ years now &amp;#8211; to be honest I never bothered to understand the differences between the different TeX engines &amp;#8211; here is an excellent article by Graham Douglas explaining the ins and outs of the TeX engine(s).
+&amp;#8230; the article also features Overleaf a shared TeX environment &amp;#8230; sweet!</description>
+    </item>
+    
+    <item>
+      <title>Three weeks without email</title>
+      <link>/post/2016-01-10-three-weeks-without-email/</link>
+      <pubDate>Sun, 10 Jan 2016 04:34:43 -0700</pubDate>
+      
+      <guid>/post/2016-01-10-three-weeks-without-email/</guid>
+      <description>I spend a lot of time writing and answering email. Email is, according to timing, the third longest activity on my computer (although I am using three computers and can check this only on one of them &amp;#8211; #timing please let us link computers for an overall analysis) &amp;#8230; anyway &amp;#8211; back to no email &amp;#8211; as a holiday treat I decided to shut down all my email accounts 5 days before Dec.</description>
+    </item>
+    
+  </channel>
+</rss>

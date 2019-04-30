@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Food on Michael Schulte-Mecklenbeck</title>
+    <link>/categories/food/</link>
+    <description>Recent content in Food on Michael Schulte-Mecklenbeck</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>{year}</copyright>
+    <lastBuildDate>Fri, 20 Feb 2015 06:35:25 -0700</lastBuildDate>
+    
+	<atom:link href="/categories/food/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Schnitz(e)ljagd</title>
+      <link>/post/2015-02-20-schnitzeljagd/</link>
+      <pubDate>Fri, 20 Feb 2015 06:35:25 -0700</pubDate>
+      
+      <guid>/post/2015-02-20-schnitzeljagd/</guid>
+      <description>Find the Schnitz(e)l!</description>
+    </item>
+    
+  </channel>
+</rss>

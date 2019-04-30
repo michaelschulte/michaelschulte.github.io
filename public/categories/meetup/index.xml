@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meetup on Michael Schulte-Mecklenbeck</title>
+    <link>/categories/meetup/</link>
+    <description>Recent content in Meetup on Michael Schulte-Mecklenbeck</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>{year}</copyright>
+    <lastBuildDate>Mon, 10 Dec 2018 06:05:56 -0700</lastBuildDate>
+    
+	<atom:link href="/categories/meetup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BernR Meetup</title>
+      <link>/post/2018-12-10-bernr-meetup/</link>
+      <pubDate>Mon, 10 Dec 2018 06:05:56 -0700</pubDate>
+      
+      <guid>/post/2018-12-10-bernr-meetup/</guid>
+      <description>Today (Dec 10th 2018) we will meet for the first BernR Meetup (https://www.meetup.com/Bern-R/) &amp;#8211; hope to learn new things and get to know cool R people. More to follow soon ..</description>
+    </item>
+    
+  </channel>
+</rss>

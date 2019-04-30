@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elisabeth Norman on Michael Schulte-Mecklenbeck</title>
+    <link>/authors/elisabeth-norman/</link>
+    <description>Recent content in Elisabeth Norman on Michael Schulte-Mecklenbeck</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>{year}</copyright>
+    <lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/elisabeth-norman/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Take a quick click at that! Mouselab and eye-tracking as tools to measure intuition</title>
+      <link>/publication/norman-2009-take/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/norman-2009-take/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

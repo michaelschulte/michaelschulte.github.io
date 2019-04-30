@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RRR on Michael Schulte-Mecklenbeck</title>
+    <link>/categories/rrr/</link>
+    <description>Recent content in RRR on Michael Schulte-Mecklenbeck</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>{year}</copyright>
+    <lastBuildDate>Mon, 13 Nov 2017 14:23:40 -0700</lastBuildDate>
+    
+	<atom:link href="/categories/rrr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Professor priming &amp;#8211; or not</title>
+      <link>/post/2017-11-13-professor-priming-or-not/</link>
+      <pubDate>Mon, 13 Nov 2017 14:23:40 -0700</pubDate>
+      
+      <guid>/post/2017-11-13-professor-priming-or-not/</guid>
+      <description>This was my first contribution to a Registered Replication Report (RRR). Being one of 40 participating labs was an interesting exercise &amp;#8211; it might seem straightforward to run the same study in different labs, but we learned that such small things as ü, ä and ö can generate a huge amount of problems and work (read this if you are into these kind of things).  Here is one of the central results:   So overall not a lot of action &amp;#8230; our lab was actually the one with larges effect size (in the predicted direction).</description>
+    </item>
+    
+  </channel>
+</rss>

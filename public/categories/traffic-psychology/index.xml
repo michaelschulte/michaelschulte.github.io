@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>traffic psychology on Michael Schulte-Mecklenbeck</title>
+    <link>/categories/traffic-psychology/</link>
+    <description>Recent content in traffic psychology on Michael Schulte-Mecklenbeck</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>{year}</copyright>
+    <lastBuildDate>Tue, 09 Jan 2018 05:47:29 -0700</lastBuildDate>
+    
+	<atom:link href="/categories/traffic-psychology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blind Haste (aka im Blindflug)</title>
+      <link>/post/2018-01-09-blind-haste-aka-im-blindflug/</link>
+      <pubDate>Tue, 09 Jan 2018 05:47:29 -0700</pubDate>
+      
+      <guid>/post/2018-01-09-blind-haste-aka-im-blindflug/</guid>
+      <description>Chance encounters sometimes lead to interesting and new projects. This is one of those cases &amp;#8230; I got to know Emanuel de Bellis during my time at Nestle and we never stopped collaborating ever since (he actually lead my 2017 &amp;#8216;skype to&amp;#8217; statistics with my wife as a close second &amp;#8230;)
+We got our hands on a rich dataset of speed measures the police in Zürich (Switzerland) does unbeknownst to the drivers during they year for planning purposes.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Florian Hutzler on Michael Schulte-Mecklenbeck</title>
+    <link>/authors/florian-hutzler/</link>
+    <description>Recent content in Florian Hutzler on Michael Schulte-Mecklenbeck</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>{year}</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/florian-hutzler/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Inducing Thought Processes: Bringing Process Measures and Cognitive Processes Closer Together</title>
+      <link>/publication/schulte-2017-inducing/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/schulte-2017-inducing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flashlight--Recording information acquisition online</title>
+      <link>/publication/schulte-2011-flashlight/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/schulte-2011-flashlight/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

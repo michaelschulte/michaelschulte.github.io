@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Limesurvey on Michael Schulte-Mecklenbeck</title>
+    <link>/categories/limesurvey/</link>
+    <description>Recent content in Limesurvey on Michael Schulte-Mecklenbeck</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>{year}</copyright>
+    <lastBuildDate>Mon, 03 Jun 2013 12:55:47 -0700</lastBuildDate>
+    
+	<atom:link href="/categories/limesurvey/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Limesurvey randomizing</title>
+      <link>/post/2013-06-03-limesurvey-randomizing/</link>
+      <pubDate>Mon, 03 Jun 2013 12:55:47 -0700</pubDate>
+      
+      <guid>/post/2013-06-03-limesurvey-randomizing/</guid>
+      <description>It is kind of an odd problem.
+For the following pretty straight forward question: How do I randomise questions within a group in Limesurvey? It seems to be really hard to find an answer.
+With the help of Jonas I figured out that there is a randomisation option hidden in the &amp;#8216;Advanced Settings&amp;#8217; section of a question. What you have to do is provide the same number (this is important) for each question in a group that you want to randomise.</description>
+    </item>
+    
+  </channel>
+</rss>

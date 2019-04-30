@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Evie Vergauwe on Michael Schulte-Mecklenbeck</title>
+    <link>/authors/evie-vergauwe/</link>
+    <description>Recent content in Evie Vergauwe on Michael Schulte-Mecklenbeck</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>{year}</copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/evie-vergauwe/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Accelerated CREP-RRR: Turri, Buckwalter, &amp; Blouw (2015)</title>
+      <link>/publication/hall-2018-accelerated/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/hall-2018-accelerated/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

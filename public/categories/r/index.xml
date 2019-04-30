@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on Michael Schulte-Mecklenbeck</title>
+    <link>/categories/r/</link>
+    <description>Recent content in R on Michael Schulte-Mecklenbeck</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>{year}</copyright>
+    <lastBuildDate>Mon, 10 Dec 2018 06:05:56 -0700</lastBuildDate>
+    
+	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BernR Meetup</title>
+      <link>/post/2018-12-10-bernr-meetup/</link>
+      <pubDate>Mon, 10 Dec 2018 06:05:56 -0700</pubDate>
+      
+      <guid>/post/2018-12-10-bernr-meetup/</guid>
+      <description>Today (Dec 10th 2018) we will meet for the first BernR Meetup (https://www.meetup.com/Bern-R/) &amp;#8211; hope to learn new things and get to know cool R people. More to follow soon ..</description>
+    </item>
+    
+    <item>
+      <title>Something about reverse inference</title>
+      <link>/post/2017-04-12-something-about-reverse-inference/</link>
+      <pubDate>Wed, 12 Apr 2017 07:29:00 -0700</pubDate>
+      
+      <guid>/post/2017-04-12-something-about-reverse-inference/</guid>
+      <description>Often, when we run process tracing studies (e.g., eye-tracking, mouse-tracking, thinking-aloud) we talk about cognitive processes (things we can&amp;#8217;t observe) in a way that they are actually and directly observable. This is pretty weird &amp;#8211; which becomes obvious when looking at the data from the paper below. In this paper we simply instruct participants to follow a strategy when making choices between risky gamble problems. Taking the example of fixation duration we see that there is surprisingly litte difference between calculating an expected value, using a heuristic (priority heuristic) and just making decisions without instructions (no instruction) &amp;#8230; maybe we should rethink our mapping of observation to cognitive processes a bit?</description>
+    </item>
+    
+    <item>
+      <title>Eye-Tracking with N &gt; 1</title>
+      <link>/post/2017-03-13-eye-tracking-with-n-1/</link>
+      <pubDate>Mon, 13 Mar 2017 12:20:52 -0700</pubDate>
+      
+      <guid>/post/2017-03-13-eye-tracking-with-n-1/</guid>
+      <description>This is one of the fastest papers I have ever written. It was a great collaboration with Tomás Lejarraga from the Universitat de les Illes Balears. Why was it great? Because it is one of the rare cases (at least in my academic life) where all people involved in a project contribute equally and quickly. Often, the weight of a contribution lies with one person which slows down things &amp;#8211; with Tomás this was different &amp;#8211; we were often sitting in front of a computer writing together (have never done this before, thought it would not work).</description>
+    </item>
+    
+    <item>
+      <title>Before R there was S</title>
+      <link>/post/2016-07-12-before-r-was-r-there-was-s/</link>
+      <pubDate>Tue, 12 Jul 2016 02:09:41 -0700</pubDate>
+      
+      <guid>/post/2016-07-12-before-r-was-r-there-was-s/</guid>
+      <description>Before there was R, there was S. R was modeled on a language developed at AT&amp;T Bell Labs starting in 1976 by Rick Becker and John Chambers (and, later, Alan Wilks) along with Doug Dunn, Jean McRae, and Judy Schilling. Here is a talk by Rick Becker telling the story of R. Good Stuff! </description>
+    </item>
+    
+    <item>
+      <title>The exams package</title>
+      <link>/post/2016-06-11-the-exams-package/</link>
+      <pubDate>Sat, 11 Jun 2016 02:09:52 -0700</pubDate>
+      
+      <guid>/post/2016-06-11-the-exams-package/</guid>
+      <description>I gave the R package exams a shot for my decision making lecture. Here is what it does:
+&amp;#8220;Automatic generation of exams based on exercises in Sweave (R/LaTeX) or R/Markdown format, including multiple-choice questions and arithmetic problems. Exams can be produced in various formats, including PDF, HTML, Moodle XML, QTI 1.2 (for OLAT/OpenOLAT), QTI 2.1, ARSnova, and TCExam. In addition to fully customizable PDF exams, a standardized PDF format is provided that can be printed, scanned, and automatically evaluated.</description>
+    </item>
+    
+    <item>
+      <title>all that mutate() and summarise() beauty</title>
+      <link>/post/2015-02-12-all-that-mutate-and-summarise-beauty/</link>
+      <pubDate>Thu, 12 Feb 2015 01:44:10 -0700</pubDate>
+      
+      <guid>/post/2015-02-12-all-that-mutate-and-summarise-beauty/</guid>
+      <description>The friendly people from RStudio recently started a webinar series with talks on the following topics (among others):
+Data wrangling with R and RStudio
+The Grammar and Graphics of Data Science (both dplyr happiness)
+RStudio and Shiny
+&amp;#8230; and many more.
+Our friend Dr. Nathaniel D. Philipps also started a cool R course with videos, shiny apps and many other new goodies.
+&amp;nbsp;
+&amp;nbsp;</description>
+    </item>
+    
+    <item>
+      <title>dplyr is growing up &amp;#8230;</title>
+      <link>/post/2014-09-25-dplyr-is-growing-up/</link>
+      <pubDate>Thu, 25 Sep 2014 01:37:27 -0700</pubDate>
+      
+      <guid>/post/2014-09-25-dplyr-is-growing-up/</guid>
+      <description>&amp;nbsp;
+
+&amp;nbsp;
+&amp;nbsp;
+&amp;nbsp;
+&amp;nbsp;
+&amp;nbsp;
+&amp;nbsp;
+dplyr is the new plyr &amp;#8211; and it is awesome!
+fast, consistent and easy to read &amp;#8230; check out a set of instructional pages, presentation and videos here
+Thanks Hadley Wickham</description>
+    </item>
+    
+    <item>
+      <title>*apply in all its variations &amp;#8230;</title>
+      <link>/post/2012-10-13-apply-in-all-its-variations/</link>
+      <pubDate>Sat, 13 Oct 2012 11:05:38 -0700</pubDate>
+      
+      <guid>/post/2012-10-13-apply-in-all-its-variations/</guid>
+      <description>Here is an excellent stackoverflow post on how *apply in all its variations can be used.
+One of the followups points at plyr (from demi-R-god Hadley Wickham) which provides a consistent naming convention for all the *apply variations. I like plyr a lot, because like ggplot, it is easy to grasp and relatively intuitive to find an answer to even tricky problems.
+Here is the translation from *apply to plyr &amp;#8230;</description>
+    </item>
+    
+    <item>
+      <title>R Style Guide</title>
+      <link>/post/2012-09-21-r-style-guide/</link>
+      <pubDate>Fri, 21 Sep 2012 22:59:18 -0700</pubDate>
+      
+      <guid>/post/2012-09-21-r-style-guide/</guid>
+      <description>This is mainly a note to self:
+There are several style guides for R out there. I particularly like the one from Google and the somewhat lighter version of Hadley (ggplot god).
+All of that style guide thinking started after a question on  about R workflow &amp;#8230; How do we organize large R projects. Hadley (again) is favoring an Load-Clean-Func-Do approach which looks somewhat like that:
+ load.R # load data clean.</description>
+    </item>
+    
+    <item>
+      <title>Why anybody should learn/use R &amp;#8230;</title>
+      <link>/post/2011-08-02-why-anybody-should-learnuse-r/</link>
+      <pubDate>Tue, 02 Aug 2011 06:36:14 -0700</pubDate>
+      
+      <guid>/post/2011-08-02-why-anybody-should-learnuse-r/</guid>
+      <description>I had a discussion the other day on the re-appearing topic why one should learn R &amp;#8230;
+I took the list below from the R-Bloggers which argues why grad students should learn R:
+ R is free, and lets grad students escape the burdens of commercial license costs. R has really good online documentation; and the community is unparalleled.  The command-line interface is perfect for learning by doing.  R is on the cutting edge, and expanding rapidly.</description>
+    </item>
+    
+    <item>
+      <title>awesome visualization tool for R</title>
+      <link>/post/2011-07-15-awesome-visualization-tool-for-r/</link>
+      <pubDate>Fri, 15 Jul 2011 04:07:04 -0700</pubDate>
+      
+      <guid>/post/2011-07-15-awesome-visualization-tool-for-r/</guid>
+      <description>http://cran.r-project.org/web/packages/googleVis/ enables chart generation similar to the ones instroduced by Hans Roesling in his TED talk on poverty &amp;#8211; extremly cool 🙂</description>
+    </item>
+    
+    <item>
+      <title>resinstalling packages in R after update</title>
+      <link>/post/2011-04-14-resinstalling-packages-in-r-after-update/</link>
+      <pubDate>Thu, 14 Apr 2011 23:15:45 -0700</pubDate>
+      
+      <guid>/post/2011-04-14-resinstalling-packages-in-r-after-update/</guid>
+      <description>The new version 2.13.0 of R has just been released and with the update comes the pain of re-installing all the packages from the old installation on the new one.
+Stackoverflow to the rescue! This posting provides a simple two step process of first writing a list of packages into a file on the disk in the old version, installing the new version and then comparing the exported list to the currently installed packages in the new version with setdiff.</description>
+    </item>
+    
+    <item>
+      <title>Psychology as a reproducible Science</title>
+      <link>/post/2011-03-15-psychology-as-a-reproducible-science/</link>
+      <pubDate>Tue, 15 Mar 2011 13:30:49 -0700</pubDate>
+      
+      <guid>/post/2011-03-15-psychology-as-a-reproducible-science/</guid>
+      <description>Is Psychology ready for reproducible research?
+Today the typical research process in psychology looks generally like this: we collect data; analyze them in many ways; write a draft article based on some of the results; submit the draft to a journal; maybe produce a revision following the suggestions of the reviewers and editors; and hopefully live long enough to actually see it published. All of these steps are closed to the public except for the last one &amp;#8211; the publication of the (often substantially) revised version of the paper.</description>
+    </item>
+    
+    <item>
+      <title>R and the World Cup</title>
+      <link>/post/2010-07-13-r-and-the-world-cup/</link>
+      <pubDate>Tue, 13 Jul 2010 00:48:38 -0700</pubDate>
+      
+      <guid>/post/2010-07-13-r-and-the-world-cup/</guid>
+      <description>Across the street at the Revolution blog a nice example of using R with data from the cloud (see another post on this topic here) shows us the distribution of fouls during the just finished World Cup in a nice barchart. Even more interesting than the fact that Holland rules this category is the way the data are collected from a Google spreadsheet page.
+With the following simple code line:</description>
+    </item>
+    
+    <item>
+      <title>R goes cloud</title>
+      <link>/post/2010-04-16-r-goes-cloud/</link>
+      <pubDate>Fri, 16 Apr 2010 23:24:03 -0700</pubDate>
+      
+      <guid>/post/2010-04-16-r-goes-cloud/</guid>
+      <description>Jeroen Ooms did for R what Google did for editing documents online. He created several software packages that help running R with a nice frontend over the Internet.
+I first learned about Jeroen&amp;#8217;s website through his implementation of ggplot2 &amp;#8211; this page is useful to generate graphs with the powerful ggplot2 package without R knowledge, however it is even more helpful to learn ggplot2 code with the View-code panel function which displays the underlying R code.</description>
+    </item>
+    
+    <item>
+      <title>Lattice versus ggplot2</title>
+      <link>/post/2009-10-24-lattice-versus-ggplot2/</link>
+      <pubDate>Sat, 24 Oct 2009 20:15:50 -0700</pubDate>
+      
+      <guid>/post/2009-10-24-lattice-versus-ggplot2/</guid>
+      <description>I really liked Lattice for generating graphs in R until I saw what ggplot2 can do &amp;#8230;
+One of the big differences between the two is the theory on which ggplot2 is based upon. There are clear modular building blocks that can be applied in a consistent manner on any graph generated. Both packages are extremely versatile but at the end of the day I think ggplot2 provides a clearer structure and hence more flexibility &amp;#8230;</description>
+    </item>
+    
+    <item>
+      <title>R flashmob</title>
+      <link>/post/2009-09-06-r-flashmob/</link>
+      <pubDate>Sun, 06 Sep 2009 23:07:06 -0700</pubDate>
+      
+      <guid>/post/2009-09-06-r-flashmob/</guid>
+      <description>From: The R Flashmob Project
+Subject: R Flashmob #2
+You are invited to take part in R Flashmob, the project that makes the
+world a better place by posting helpful questions and answers about the
+R statistical language to the programmer’s Q &amp;amp; A site stackoverflow.com
+Please forward this to other people you know who might like to join.
+FAQ
+Q. Why would I want to join an inexplicable R mob?</description>
+    </item>
+    
+    <item>
+      <title>Inference and R</title>
+      <link>/post/2009-06-05-inference-and-r/</link>
+      <pubDate>Fri, 05 Jun 2009 13:28:22 -0700</pubDate>
+      
+      <guid>/post/2009-06-05-inference-and-r/</guid>
+      <description>Dan Goldstein posted a short overview of Inference which allows working with R code in Microsoft Office and Excel.
+I want to point at Sweave which does an excellent job in connecting R to LaTeX. Here is a short demo of Sweave which also connects the approach of Sweave to the &amp;#8216;literate programming&amp;#8216; idea of Donald Knuth (Father of &amp;#8216;The Art of Computer Programming&amp;#8217; and TeX).
+The basic idea is to combine programming (an analysis in the case of R) with documentation into one process.</description>
+    </item>
+    
+    <item>
+      <title>create colored title in R plot</title>
+      <link>/post/2009-05-17-create-colored-title-in-r-plot/</link>
+      <pubDate>Sun, 17 May 2009 12:59:53 -0700</pubDate>
+      
+      <guid>/post/2009-05-17-create-colored-title-in-r-plot/</guid>
+      <description>David Smith has a very nice code example in which he sets the color of title word in a plot to the actual grouping color. Code can be found here. This seems extremely useful for posters and presentations. I doubt however that journals would pick up on that &amp;#8230;</description>
+    </item>
+    
+  </channel>
+</rss>

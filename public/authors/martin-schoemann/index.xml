@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martin Schoemann on Michael Schulte-Mecklenbeck</title>
+    <link>/authors/martin-schoemann/</link>
+    <description>Recent content in Martin Schoemann on Michael Schulte-Mecklenbeck</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>{year}</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/martin-schoemann/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Forward inference in risky choice: Mapping gaze and decision processes</title>
+      <link>/publication/schoemann-2019-forward/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/schoemann-2019-forward/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

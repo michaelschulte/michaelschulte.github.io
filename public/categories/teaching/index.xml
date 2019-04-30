@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching on Michael Schulte-Mecklenbeck</title>
+    <link>/categories/teaching/</link>
+    <description>Recent content in Teaching on Michael Schulte-Mecklenbeck</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>{year}</copyright>
+    <lastBuildDate>Fri, 12 Aug 2016 00:05:23 -0700</lastBuildDate>
+    
+	<atom:link href="/categories/teaching/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Everything is fucked &amp;#8230;</title>
+      <link>/post/2016-08-12-everything-is-fucked/</link>
+      <pubDate>Fri, 12 Aug 2016 00:05:23 -0700</pubDate>
+      
+      <guid>/post/2016-08-12-everything-is-fucked/</guid>
+      <description>This syllabus of an (obviously) awesome class has a ton of good reads:
+Everything is fucked: The&amp;nbsp;syllabus
+by Sanjay Srivastava
+I would have two additions:
+ A multi lab replication project on ego-depletion (Hagger &amp;amp; Chatzisarantis, 2016) And the response from Roy Baumeister and Kathleen D. Vohs  It&amp;#8217;s a really good statement of how f&amp;#8230; up things are (in addition to all the other good examples above) &amp;#8230;
+“A new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die, and a new generation grows up that is familiar with it.</description>
+    </item>
+    
+    <item>
+      <title>The exams package</title>
+      <link>/post/2016-06-11-the-exams-package/</link>
+      <pubDate>Sat, 11 Jun 2016 02:09:52 -0700</pubDate>
+      
+      <guid>/post/2016-06-11-the-exams-package/</guid>
+      <description>I gave the R package exams a shot for my decision making lecture. Here is what it does:
+&amp;#8220;Automatic generation of exams based on exercises in Sweave (R/LaTeX) or R/Markdown format, including multiple-choice questions and arithmetic problems. Exams can be produced in various formats, including PDF, HTML, Moodle XML, QTI 1.2 (for OLAT/OpenOLAT), QTI 2.1, ARSnova, and TCExam. In addition to fully customizable PDF exams, a standardized PDF format is provided that can be printed, scanned, and automatically evaluated.</description>
+    </item>
+    
+  </channel>
+</rss>
