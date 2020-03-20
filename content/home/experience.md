@@ -75,7 +75,7 @@ date_format = "2006"
 
 [[experience]]
   title = "Post-doctoral Fellow"
-  company = "Unviersity of Bergen, Department of Psychology"
+  company = "University of Bergen, Department of Psychology"
   company_url = ""
   location = "Bergen, Norway"
   date_start = "2006-01-01"

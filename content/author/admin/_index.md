@@ -27,7 +27,9 @@ interests = [
   "Decision Making",
   "Process Tracing",
   "Eye-Tracking",
-  "Mouse-Tracking"
+  "Mouse-Tracking",
+  "Open Science",
+  "Replication"
 ]
 
 # Organizational groups that you belong to (for People widget)
